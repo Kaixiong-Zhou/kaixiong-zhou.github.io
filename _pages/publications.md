@@ -18,8 +18,6 @@ Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen,
 <li>Compress, Then Prompt: Improving Accuracy-Efficiency Trade-off of LLM Inference with Transferable Prompt<br />
 Zhaozhuo Xu, Zirui Liu, Beidi Chen, Yuxin Tang, Jue Wang, <b>Kaixiong Zhou</b>, Xia Hu, Anshumali Shrivastava.<br /></li>
 
-<li>Winner-Take-All Column Row Sampling for Memory Efficient Adaptation of Language Model<br />
-Zirui Liu, Guanchu Wang, Shaochen Zhong, Zhaozhuo Xu, Daochen Zha, Ruixiang Tang, Zhimeng Jiang, <b>Kaixiong Zhou</b>, Vipin Chaudhary, Shuai Xu, Xia Hu.<br /></li>
 </ul>
 
 ## Book Chapter
@@ -31,6 +29,19 @@ Zirui Liu, Guanchu Wang, Shaochen Zhong, Zhaozhuo Xu, Daochen Zha, Ruixiang Tang
 
 ## Conference/Journal Papers (* indicates equal contributions)
 <ul>
+<li>Winner-Take-All Column Row Sampling for Memory Efficient Adaptation of Language Model<br />
+Zirui Liu, Guanchu Wang, Shaochen Zhong, Zhaozhuo Xu, Daochen Zha, Ruixiang Tang, Zhimeng Jiang, <b>Kaixiong Zhou</b>, Vipin Chaudhary, Shuai Xu, Xia Hu.<br />
+<i>Conference on Neural Information Processing Systems (NeurIPS), 2023.</i><br /></li>
+
+
+<li>LeanFlex-GKP: Advancing Hassle-Free Structured Pruning with Simple Flexible Group Count<br />
+Jiamu Zhang, Shaochen Zhong, Andrew Ye, Zirui Liu, <b>Kaixiong Zhou</b>, Xia Hu, Shuai Xu, Vipin Chaudhary.<br />
+<i>Workshop on Advancing Neural Network Training: Computational Efficiency, Scalability, and Resource Optimization (WANT@NeurIPS), 2023.</i><br /></li>
+
+<li>DiscoverPath: A Knowledge Refinement and Retrieval System for Interdisciplinarity on Biomedical Research (demo paper)<br />
+Yu-Neng Chuang, Guanchu Wang, Chia-Yuan Chang, Kwei-Herng Lai, Daochen Zha, Ruixiang Tang, Fan Yang, Alfredo Costilla Reyes,  <b>Kaixiong Zhou</b>, Xiaoqian Jiang, Xia Hu.<br />
+<i>ACM International Conference on Information and Knowledge Management (CIKM), 2023.</i><br /></li>
+
 <li>DSpar: An Embarrassingly Simple Strategy for Efficient GNN training and inference via Degree-based Sparsification<br />
 Zirui Liu, <b>Kaixiong Zhou</b>, Zhimeng Jiang, Li Li, Rui Chen, Soo-Hyun Choi, Xia Hu.<br />
 <i>Transactions on Machine Learning Research (TMLR), 2023.</i><br /></li>
