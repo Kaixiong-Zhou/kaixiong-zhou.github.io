@@ -8,20 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. student from the Department of Computer Science at Rice University, 
-working with [Prof. Xia (Ben) Hu](https://cs.rice.edu/~xh37/index.html). Before that, I received Bachelor degree from 
-Sun Yat-Sen University (SYSU) in 2015, and received Master degree from University of Science and Technology of China (USTC) in 2018, 
-under supervision of [Prof. Chen Gong](http://staff.ustc.edu.cn/~cgong821/) and [Prof. Zhengyuan Xu](http://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm). 
+I am a Postdoctoral Associate at Massachusetts Institute of Technology, working on drug discovery and synthetic biology with [Prof. James J. Collins](https://be.mit.edu/directory/james-j-collins).  Before that, I received my Ph.D. degree in Computer Science from Rice University, 2023, under the supervision of [Prof. Xia (Ben) Hu](https://cs.rice.edu/~xh37/index.html). I received the Bachelor degree from 
+Sun Yat-Sen University (SYSU) in 2015, and received the Master degree from University of Science and Technology of China (USTC) in 2018. 
+# under supervision of [Prof. Chen Gong](http://staff.ustc.edu.cn/~cgong821/) and [Prof. Zhengyuan Xu](http://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm). 
 
 
 My research interests lie in the broad area of large-scale graph data mining and machine learning, 
-particularly in deep graph analysis, 
-efficient graph representation learning, and the science applications in biochemical informatics and graph quantum computing.
+particularly in deep graph analysis, efficient graph representation learning, and the science applications in bioinformatics and graph quantum computing.
 
-Email: Kaixiong.Zhou at rice.edu. Here is my [CV](https://github.com/Kaixiong-Zhou/kaixiong-zhou.github.io/blob/master/files/Kaixiong_CV.pdf)
+Email: kz34 at mit.edu,  kzhou22 at ncsu.edu.
 
 <p style="color:red;"> I will join the Department of Electrical and Computer Engineering at North Carolina State University as a tenure-track Assistant Professor in Fall 2024. 
-Before that, I will be a Postdoctoral Researcher at Massachusetts Institute of Technology, working on drug discovery and synthetic biology with Prof. James J. Collins.
 </p>
 
 <p><i class="fas fa-envelope"></i> Prospective students: I am looking for self-motivated students. Please feel free to drop me an email kaixiong.zhou.001@gmail.com together with resume and transcripts if you are interested.
@@ -31,6 +28,8 @@ Before that, I will be a Postdoctoral Researcher at Massachusetts Institute of T
 
 News
 =====
+**Sep. 2023:** Join MIT IMES as a Postdoc, 2023. 
+
 **Apr. 2023:**  One paper accepted by ICML, 2023.
 
 **Apr. 2023:**  One paper accepted by IJCAI, 2023.
