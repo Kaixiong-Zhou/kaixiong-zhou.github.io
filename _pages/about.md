@@ -10,7 +10,6 @@ redirect_from:
 
 I am a Postdoctoral Associate at Massachusetts Institute of Technology, working on drug discovery and synthetic biology with [Prof. James J. Collins](https://be.mit.edu/directory/james-j-collins).  Before that, I received my Ph.D. degree in Computer Science from Rice University, 2023, under the supervision of [Prof. Xia (Ben) Hu](https://cs.rice.edu/~xh37/index.html). I received the Bachelor degree from 
 Sun Yat-Sen University (SYSU) in 2015, and received the Master degree from University of Science and Technology of China (USTC) in 2018. 
-# under supervision of [Prof. Chen Gong](http://staff.ustc.edu.cn/~cgong821/) and [Prof. Zhengyuan Xu](http://owc.ustc.edu.cn/2014/0818/c10523a116333/page.htm). 
 
 
 My research interests lie in the broad area of large-scale graph data mining and machine learning, 
