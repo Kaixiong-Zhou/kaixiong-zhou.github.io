@@ -18,6 +18,9 @@ Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen,
 <li>Compress, Then Prompt: Improving Accuracy-Efficiency Trade-off of LLM Inference with Transferable Prompt<br />
 Zhaozhuo Xu, Zirui Liu, Beidi Chen, Yuxin Tang, Jue Wang, <b>Kaixiong Zhou</b>, Xia Hu, Anshumali Shrivastava.<br /></li>
 
+<li>PokeMQA: Programmable knowledge editing for Multi-hop Question Answering<br />
+Hengrui Gu, <b>Kaixiong Zhou*</b>, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin Wang.<br /></li>
+
 </ul>
 
 ## Book Chapter
@@ -29,10 +32,13 @@ Zhaozhuo Xu, Zirui Liu, Beidi Chen, Yuxin Tang, Jue Wang, <b>Kaixiong Zhou</b>, 
 
 ## Conference/Journal Papers (* indicates equal contributions)
 <ul>
+<li>Efficient Sharpness-Aware Minimization for Molecular Graph Transformer Modelsl<br />
+Yili Wang, <b>KKaixiong Zhou</b>, Ninghao Liu, Ying Wang, Xin Wang.<br />
+<i>International Conference on Learning Representation (ICLR), 2024.</i><br /></li>
+
 <li>Winner-Take-All Column Row Sampling for Memory Efficient Adaptation of Language Model<br />
 Zirui Liu, Guanchu Wang, Shaochen Zhong, Zhaozhuo Xu, Daochen Zha, Ruixiang Tang, Zhimeng Jiang, <b>Kaixiong Zhou</b>, Vipin Chaudhary, Shuai Xu, Xia Hu.<br />
 <i>Conference on Neural Information Processing Systems (NeurIPS), 2023.</i><br /></li>
-
 
 <li>LeanFlex-GKP: Advancing Hassle-Free Structured Pruning with Simple Flexible Group Count<br />
 Jiamu Zhang, Shaochen Zhong, Andrew Ye, Zirui Liu, <b>Kaixiong Zhou</b>, Xia Hu, Shuai Xu, Vipin Chaudhary.<br />
@@ -50,6 +56,10 @@ Zirui Liu, <b>Kaixiong Zhou</b>, Zhimeng Jiang, Li Li, Rui Chen, Soo-Hyun Choi, 
 Zhimeng Jiang, <b>Kaixiong Zhou</b>, Mi Zhang, Rui Chen, Xia Hu, Soo-Hyun Choi.<br />
 <i>SIGKDD Explorations, 2023</i><br /></li>
 
+<li>Marginal Nodes Matter: Towards Structure Fairness in Graphs<br />
+Xiaotian Han, <b>Kaixiong Zhou</b>, Ting-Hsiang Wang, Jundong Li, Fei Wang, Na Zou.<br />
+<i>SIGKDD Explorations, 2023</i><br /></li>
+
 <li>Hessian-aware Quantized Node Embeddings for Recommendation (short paper)<br />
 Huiyuan Chen, <b>Kaixiong Zhou</b>, Kwei-Herng Lai, Chin-Chia Michael Yeh, Yan Zheng, Xia Hu, Hao Yang.<br />		
 <i>ACM Recommender Systems Conference (RecSys), 2023.</i><br /></li>
@@ -64,12 +74,12 @@ Zirui Liu, Shengyuan Chen, <b>Kaixiong Zhou</b>, Daochen Zha, Xiao Huang, Xia Hu
 <i>International Conference on Machine Learning (ICML), 2023.</i><br /></li>
 
 
-<li> Probabilistic Masked Attention Networks for Explainable Sequential Recommendation<br />
+<li>Probabilistic Masked Attention Networks for Explainable Sequential Recommendation<br />
 Huiyuan Chen, <b>Kaixiong Zhou</b>, Zhimeng Jiang, Michael Yeh, Xiaoting Li, Menghai Pan, Yan Zheng, Xia Hu, Hao Yang.<br />
 <i>International Joint Conference on Artificial Intelligence (IJCAI), 2023.</i><br /></li>
 
 
-<li> Adaptive Label Smoothing To Regularize Large-Scale Graph Training<br />
+<li>Adaptive Label Smoothing To Regularize Large-Scale Graph Training<br />
 <b>Kaixiong Zhou*</b>, Soo-Hyun Choi*, Zirui Liu, Ninghao Liu, Fan Yang, Rui Chen, Li Li, Xia Hu.<br />
 <i>SIAM International Conference on Data Mining (SDM), 2023.</i><br /></li>
 
