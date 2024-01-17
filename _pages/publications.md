@@ -32,7 +32,7 @@ Hengrui Gu, <b>Kaixiong Zhou</b>, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin W
 
 ## Conference/Journal Papers (* indicates equal contributions)
 <ul>
-<li>Efficient Sharpness-Aware Minimization for Molecular Graph Transformer Modelsl<br />
+<li>Efficient Sharpness-Aware Minimization for Molecular Graph Transformer Models<br />
 Yili Wang, <b>Kaixiong Zhou</b>, Ninghao Liu, Ying Wang, Xin Wang.<br />
 <i>International Conference on Learning Representation (ICLR), 2024.</i><br /></li>
 
