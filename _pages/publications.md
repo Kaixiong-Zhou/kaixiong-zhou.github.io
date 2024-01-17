@@ -19,7 +19,7 @@ Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen,
 Zhaozhuo Xu, Zirui Liu, Beidi Chen, Yuxin Tang, Jue Wang, <b>Kaixiong Zhou</b>, Xia Hu, Anshumali Shrivastava.<br /></li>
 
 <li>PokeMQA: Programmable knowledge editing for Multi-hop Question Answering<br />
-Hengrui Gu, <b>Kaixiong Zhou*</b>, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin Wang.<br /></li>
+Hengrui Gu, <b>Kaixiong Zhou</b>, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin Wang.<br /></li>
 
 </ul>
 
