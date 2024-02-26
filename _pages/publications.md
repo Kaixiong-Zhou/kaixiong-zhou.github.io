@@ -32,6 +32,10 @@ Hengrui Gu, <b>Kaixiong Zhou</b>, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin W
 
 ## Conference/Journal Papers (* indicates equal contributions)
 <ul>
+<li>Molecular Data Programming: Towards Molecule Pseudo-labeling with Systematic Weak Supervision<br />
+Xin Juan, <b>Kaixiong Zhou</b>, Ninghao Liu, Tianlong Chen, Xin Wang.<br />
+<i>Conference on Computer Vision and Pattern Recognition (CVPR), 2024.</i><br /></li>
+
 <li>Efficient Sharpness-Aware Minimization for Molecular Graph Transformer Models<br />
 Yili Wang, <b>Kaixiong Zhou</b>, Ninghao Liu, Ying Wang, Xin Wang.<br />
 <i>International Conference on Learning Representation (ICLR), 2024.</i><br /></li>
