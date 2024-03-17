@@ -32,6 +32,10 @@ Hengrui Gu, <b>Kaixiong Zhou</b>, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin W
 
 ## Conference/Journal Papers (* indicates equal contributions)
 <ul>
+<li>Few-shot Time Series Classification via Sharpness Aware Minimization (workshop paper)<br />
+Jesus Barreda, Ruben Puga, <b>Kaixiong Zhou</b> Li Zhang.<br />
+<i> AI4TS Workshop in SIAM Conference on Data Mining, 2024.</i><br /></li>
+
 <li>Molecular Data Programming: Towards Molecule Pseudo-labeling with Systematic Weak Supervision<br />
 Xin Juan, <b>Kaixiong Zhou</b>, Ninghao Liu, Tianlong Chen, Xin Wang.<br />
 <i>Conference on Computer Vision and Pattern Recognition (CVPR), 2024.</i><br /></li>
