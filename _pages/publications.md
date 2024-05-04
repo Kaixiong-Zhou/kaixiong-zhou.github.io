@@ -15,9 +15,6 @@ Xuansheng Wu*, <b>Kaixiong Zhou*</b>, Mingchen Sun, Xin Wang, Ninghao Liu.<br />
 <li>Editable Graph Neural Network for Node Classifications<br />
 Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen, Soo-Hyun Choi, Xia Hu.<br /></li>
 
-<li>Compress, Then Prompt: Improving Accuracy-Efficiency Trade-off of LLM Inference with Transferable Prompt<br />
-Zhaozhuo Xu, Zirui Liu, Beidi Chen, Yuxin Tang, Jue Wang, <b>Kaixiong Zhou</b>, Xia Hu, Anshumali Shrivastava.<br /></li>
-
 <li>PokeMQA: Programmable knowledge editing for Multi-hop Question Answering<br />
 Hengrui Gu, <b>Kaixiong Zhou</b>, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin Wang.<br /></li>
 
@@ -32,8 +29,28 @@ Hengrui Gu, <b>Kaixiong Zhou</b>, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin W
 
 ## Conference/Journal Papers (* indicates equal contributions)
 <ul>
+<li>Knowledge Graphs Can be Learned with Just Intersection Features<br />
+Duy Le, Shaochen Zhong, Zirui Liu, Shuai Xu, Vipin Chaudhary, <b>Kaixiong Zhou</b>, Zhaozhuo Xu.<br />
+<i>International Conference on Machine Learning (ICML), 2024.</i><br /></li>
+
+<li>Rethinking Independent Cross-Entropy Loss For Graph-Structured Data<br />
+Rui Miao, <b>Kaixiong Zhou</b>, Yili Wang, Ninghao Liu, Ying Wang, Xin Wang.<br />
+<i>International Conference on Machine Learning (ICML), 2024.</i><br /></li>
+
+<li>GNNs Also Deserve Editing, and They Need It More Than Once<br />
+Shaochen Zhong, Duy Le, Zirui Liu, Zhimeng Jiang, Andrew Ye, Jiamu Zhang, Jiayi Yuan, <b>Kaixiong Zhou</b>, Zhaozhuo Xu, Jing Ma, Shuai Xu, Vipin Chaudhary, Xia Hu.<br />
+<i>International Conference on Machine Learning (ICML), 2024.</i><br /></li>
+
+<li>Soft Prompt Recovers Compressed LLMs, Transferably<br />
+Zhaozhuo Xu, Zirui Liu, Beidi Chen, Yuxin Tang, Jue Wang, <b>Kaixiong Zhou</b>, Xia Hu, Anshumali Shrivastava.<br />
+<i>International Conference on Machine Learning (ICML), 2024.</i><br /></li>
+
+<li>TVE: Learning Meta-attribution for Transferable Vision Explainer<br />
+Guanchu Wang, Yu-Neng Chuang, Fan Yang, Mengnan Du, Chia-Yuan Chang, Shaochen Zhong, Zirui Liu, Zhaozhuo Xu, <b>Kaixiong Zhou</b>, Xuanting Cai, Xia Hu<br />
+<i>International Conference on Machine Learning (ICML), 2024.</i><br /></li>
+
 <li>Few-shot Time Series Classification via Sharpness Aware Minimization (workshop paper)<br />
-Jesus Barreda, Ruben Puga, <b>Kaixiong Zhou</b> Li Zhang.<br />
+Jesus Barreda, Ruben Puga, <b>Kaixiong Zhou</b>, Li Zhang.<br />
 <i> AI4TS Workshop in SIAM Conference on Data Mining, 2024.</i><br /></li>
 
 <li>Molecular Data Programming: Towards Molecule Pseudo-labeling with Systematic Weak Supervision<br />
