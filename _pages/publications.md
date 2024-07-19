@@ -15,8 +15,6 @@ Xuansheng Wu*, <b>Kaixiong Zhou*</b>, Mingchen Sun, Xin Wang, Ninghao Liu.<br />
 <li>Editable Graph Neural Network for Node Classifications<br />
 Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen, Soo-Hyun Choi, Xia Hu.<br /></li>
 
-<li>PokeMQA: Programmable knowledge editing for Multi-hop Question Answering<br />
-Hengrui Gu, <b>Kaixiong Zhou</b>, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin Wang.<br /></li>
 
 </ul>
 
@@ -29,6 +27,22 @@ Hengrui Gu, <b>Kaixiong Zhou</b>, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin W
 
 ## Conference/Journal Papers (* indicates equal contributions)
 <ul>
+<li>COSCO: A Sharpness-Aware Training Framework for Few-shot Multivariate Time Series Classification (short paper)<br />
+Jesus Barreda, Ashley Gomez, Ruben Puga, <b>Kaixiong Zhou</b>, Li Zhang.<br />
+<i>ACM International Conference on Information and Knowledge Management (CIKM), 2024.</i><br /></li>
+
+<li>Retrieval-enhanced Knowledge Editing in Language Models for Multi-Hop Question Answering<br />
+Yucheng Shi, Qiaoyu Tan, Xuansheng Wu, Shaochen Zhong, <b>Kaixiong Zhou</b>, Ninghao Liu.<br />
+<i>ACM International Conference on Information and Knowledge Management (CIKM), 2024.</i><br /></li>
+
+<li>ProLLM: Protein Chain-of-Thoughts Enhanced LLM for Protein-Protein Interaction Prediction<br />
+Mingyu Jin, Haochen Xue, Zhenting Wang, Boming Kang, Ruosong Ye, <b>Kaixiong Zhou</b>, Mengnan Du, Yongfeng Zhang.<br />
+<i>Conference on Language Modeling (COLM), 2024.</i><br /></li>
+
+<li>PokeMQA: Programmable knowledge editing for Multi-hop Question Answering<br />
+Hengrui Gu, <b>Kaixiong Zhou</b>, Xiaotian Han, Ninghao Liu, Ruobing Wang, Xin Wang.<br />
+<i>Annual Meeting of the Association for Computational Linguistics (ACL), 2024.</i><br /></li>
+
 <li>Knowledge Graphs Can be Learned with Just Intersection Features<br />
 Duy Le, Shaochen Zhong, Zirui Liu, Shuai Xu, Vipin Chaudhary, <b>Kaixiong Zhou</b>, Zhaozhuo Xu.<br />
 <i>International Conference on Machine Learning (ICML), 2024.</i><br /></li>
@@ -48,10 +62,6 @@ Zhaozhuo Xu, Zirui Liu, Beidi Chen, Yuxin Tang, Jue Wang, <b>Kaixiong Zhou</b>, 
 <li>TVE: Learning Meta-attribution for Transferable Vision Explainer<br />
 Guanchu Wang, Yu-Neng Chuang, Fan Yang, Mengnan Du, Chia-Yuan Chang, Shaochen Zhong, Zirui Liu, Zhaozhuo Xu, <b>Kaixiong Zhou</b>, Xuanting Cai, Xia Hu<br />
 <i>International Conference on Machine Learning (ICML), 2024.</i><br /></li>
-
-<li>Few-shot Time Series Classification via Sharpness Aware Minimization (workshop paper)<br />
-Jesus Barreda, Ruben Puga, <b>Kaixiong Zhou</b>, Li Zhang.<br />
-<i> AI4TS Workshop in SIAM Conference on Data Mining, 2024.</i><br /></li>
 
 <li>Molecular Data Programming: Towards Molecule Pseudo-labeling with Systematic Weak Supervision<br />
 Xin Juan, <b>Kaixiong Zhou</b>, Ninghao Liu, Tianlong Chen, Xin Wang.<br />
