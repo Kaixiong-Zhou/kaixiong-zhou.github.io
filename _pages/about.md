@@ -8,14 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Associate at Massachusetts Institute of Technology, working on drug discovery and synthetic biology with [Prof. James J. Collins](https://be.mit.edu/directory/james-j-collins).  Before that, I received my Ph.D. degree in Computer Science from Rice University, 2023, under the supervision of [Prof. Xia (Ben) Hu](https://cs.rice.edu/~xh37/index.html). I received the Bachelor degree from 
-Sun Yat-Sen University (SYSU) in 2015, and received the Master degree from University of Science and Technology of China (USTC) in 2018. 
+I am an Assistant Professor in the Department of Electrical and Computer Engineering at North Carolina State University. Prior to joining NCSU, I was a Postdoctoral Associate at Massachusetts Institute of Technology, working on drug discovery and synthetic biology with [Prof. James J. Collins](https://be.mit.edu/directory/james-j-collins). I received my Ph.D. degree in Computer Science from Rice University, 2023, under the supervision of [Prof. Xia (Ben) Hu](https://cs.rice.edu/~xh37/index.html). I received the Bachelor degree from Sun Yat-Sen University (SYSU) in 2015, and received the Master degree from University of Science and Technology of China (USTC) in 2018. 
 
 
-My research interests lie in the broad area of large-scale graph data mining and machine learning, 
-particularly in deep graph analysis, efficient graph representation learning, and the science applications in bioinformatics and graph quantum computing.
+His research interests lie in developing efficient, trustworthy, and use-inspired machine learning algorithms in the fields of graph representation learning, language models, and AI for science & engineering. His research contributes to tackling challenges in various applications including synthetic biology, drug discovery, and network analysis.
 
-Email: kz34 at mit.edu,  kzhou22 at ncsu.edu.
+Email: kzhou22 at ncsu.edu.
 
 <p style="color:red;"> I will join the Department of Electrical and Computer Engineering at North Carolina State University as a tenure-track Assistant Professor in Fall 2024. 
 </p>
@@ -27,6 +25,8 @@ Email: kz34 at mit.edu,  kzhou22 at ncsu.edu.
 
 News
 =====
+**Aug. 2024:** Join NCSU ECE as an Assistant Professor, 2024.
+
 **Sep. 2023:** Join MIT IMES as a Postdoc, 2023. 
 
 **Apr. 2023:**  One paper accepted by ICML, 2023.
