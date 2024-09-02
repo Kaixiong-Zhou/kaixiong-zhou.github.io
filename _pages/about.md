@@ -15,9 +15,6 @@ His research interests lie in developing efficient, trustworthy, and use-inspire
 
 Email: kzhou22 at ncsu.edu.
 
-<p style="color:red;"> I will join the Department of Electrical and Computer Engineering at North Carolina State University as a tenure-track Assistant Professor in Fall 2024. 
-</p>
-
 <p><i class="fas fa-envelope"></i> Prospective students: I am looking for self-motivated students. Please feel free to drop me an email kaixiong.zhou.001@gmail.com together with resume and transcripts if you are interested.
 </p>
 
