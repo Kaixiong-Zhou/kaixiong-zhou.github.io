@@ -27,6 +27,19 @@ Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen,
 
 ## Conference/Journal Papers (* indicates equal contributions)
 <ul>
+<li>Cross-Lingual Multi-Hop Knowledge Editing -- Benchmarks, Analysis and a Simple Contrastive Learning based Approach<br />
+Aditi Khandelwal, Harman Singh, Hengrui Gu, Tianlong Chen, <b>Kaixiong Zhou.</b><br />
+<i>Findings of Empirical Methods in Natural Language Processing (EMNLP), 2024.</i><br /></li>
+
+<li>Pioneering Reliable Assessment in Text-to-Image Knowledge Editing: Leveraging a Fine-Grained Dataset and an Innovative Criterion<br />
+Hengrui Gu, <b>Kaixiong Zhou</b>, Yili Wang, Ruobing Wang, Xin Wang.<br />
+<i>Findings of Empirical Methods in Natural Language Processing (EMNLP), 2024.</i><br /></li>
+
+<li>QUEST: Efficient Extreme Multi-Label Text Classification with Large Language Models on Commodity Hardware<br />
+Chuang Zhou, Junnan Dong, Xiao Huang, Zirui Liu, <b>Kaixiong Zhou</b>, Zhaozhuo Xu.<br />
+<i>Findings of Empirical Methods in Natural Language Processing (EMNLP), 2024.</i><br /></li>
+
+
 <li>COSCO: A Sharpness-Aware Training Framework for Few-shot Multivariate Time Series Classification (short paper)<br />
 Jesus Barreda, Ashley Gomez, Ruben Puga, <b>Kaixiong Zhou</b>, Li Zhang.<br />
 <i>ACM International Conference on Information and Knowledge Management (CIKM), 2024.</i><br /></li>
