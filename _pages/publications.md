@@ -27,6 +27,10 @@ Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen,
 
 ## Conference/Journal Papers (* indicates equal contributions)
 <ul>
+<li>Gradient Rewiring for Editable Graph Neural Network Training<br />
+Zhimeng Jiang, Zirui Liu, Xiaotian Han, Qizhang Feng, Hongye Jin, Qiaoyu Tan, <b>Kaixiong Zhou.</b>, Na Zou, Xia Hu.<br />
+<i>Conference on Neural Information Processing Systems (NeurIPS), 2024.</i><br /></li>
+
 <li>Cross-Lingual Multi-Hop Knowledge Editing -- Benchmarks, Analysis and a Simple Contrastive Learning based Approach<br />
 Aditi Khandelwal, Harman Singh, Hengrui Gu, Tianlong Chen, <b>Kaixiong Zhou.</b><br />
 <i>Findings of Empirical Methods in Natural Language Processing (EMNLP), 2024.</i><br /></li>
