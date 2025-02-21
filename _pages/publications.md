@@ -13,10 +13,7 @@ author_profile: true
 Xuansheng Wu*, <b>Kaixiong Zhou*</b>, Mingchen Sun, Xin Wang, Ninghao Liu.<br /></li>
 
 <li>Editable Graph Neural Network for Node Classifications<br />
-Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen, Soo-Hyun Choi, Xia Hu.<br /></li> -->
-
-
-</ul>
+Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen, Soo-Hyun Choi, Xia Hu.<br /></li> </ul> --> 
 
 ## Book Chapter
 <ul>
@@ -28,7 +25,7 @@ Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen,
 ## Conference/Journal Papers (* indicates equal contributions)
 <ul>
 
-### 2025
+<b>2025</b><br />
 <li>You Only Debias Once: Towards Flexible Accuracy-Fairness Trade-offs at Inference Time (Oral)<br />
 Xiaotian Han, Tianlong Chen, <b>Kaixiong Zhou</b>, Zhimeng Jiang, Zhangyang Wang, Xia Hu.<br />
 <i>Conference on Parsimony and Learning (CPAL), 2025.</i><br /></li>
@@ -53,7 +50,7 @@ Tiejin Chen, Longchao Da, Huixue Zhou, Pingzhi Li, <b>Kaixiong Zhou</b>, Tianlon
 Tianqi Shang, Weiqing He, MS1, Tianlong Chen, Ying Ding, Huanmei Wu, <b>Kaixiong Zhou</b>, Li Shen.<br />
 <i>AMIA 2025 Informatics Summit.</i><br /></li>
 
-### Before 2024
+<b>Before 2024</b><br />
 <li>Towards Instructing Disease-Drug Link Prediction with Social Determinants of Health<br />
 Yashaswi Galhotra, Ying Ding, Li Shen, Huanmei Wu, Tianlong Chen, <b>Kaixiong Zhou</b>.<br />
 <i>ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (ACM-BCB), 2024.</i><br /></li>
