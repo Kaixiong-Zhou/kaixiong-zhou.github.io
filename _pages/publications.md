@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Preprint"
+# title: "Preprint"
 permalink: /publications/
 author_profile: true
 ---
 
-<ul>
+<!-- <ul>
 <li>MolCPT: Molecule Continuous Prompt Tuning to Generalize Molecular Representation Learning<br />
 <b>Kaixiong Zhou*</b>, Cameron Diao*, Xiao Huang, Xia Hu.<br /></li>
 
@@ -13,7 +13,7 @@ author_profile: true
 Xuansheng Wu*, <b>Kaixiong Zhou*</b>, Mingchen Sun, Xin Wang, Ninghao Liu.<br /></li>
 
 <li>Editable Graph Neural Network for Node Classifications<br />
-Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen, Soo-Hyun Choi, Xia Hu.<br /></li>
+Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen, Soo-Hyun Choi, Xia Hu.<br /></li> -->
 
 
 </ul>
@@ -27,8 +27,39 @@ Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen,
 
 ## Conference/Journal Papers (* indicates equal contributions)
 <ul>
+
+### 2025
+<li>You Only Debias Once: Towards Flexible Accuracy-Fairness Trade-offs at Inference Time (Oral)<br />
+Xiaotian Han, Tianlong Chen, <b>Kaixiong Zhou</b>, Zhimeng Jiang, Zhangyang Wang, Xia Hu.<br />
+<i>Conference on Parsimony and Learning (CPAL), 2025.</i><br /></li>
+
+<li>DAMO: Decoding by Accumulating Activations Momentum for Mitigating Hallucinations in Vision-Language Models<br />
+Kaishen Wang, Hengrui Gu, Meijun Gao, <b>Kaixiong Zhou</b>.<br />
+<i>International Conference on Learning Representation (ICLR), 2024.</i><br /></li>
+
+<li>MQuAKE-Remastered: Multi-Hop Knowledge Editing Can Only Be Advanced with Reliable Evaluations (Spotlight)<br />
+Shaochen Zhong, Yifan Lu, Lize Shao, Bhargav Bhushanam, Xiaocong Du, Yixin Wan, Yucheng Shi, Daochen Zha, Yiwei Wang, Ninghao Liu, <b>Kaixiong Zhou</b>, Shuai Xu, Kai-Wei Chang, Louis Feng, Vipin Chaudhary, Xia Hu.<br />
+<i>International Conference on Learning Representation (ICLR), 2024.</i><br /></li>
+
+<li>Layer-Level Self-Exposure and Patch: Affirmative Token Mitigation for Jailbreak Attack Defense<br />
+Yang Ouyang, Hengrui Gu, Shuhang Lin, Wenyue Hua, Jie Peng, Bhavya Kailkhura, Meijun Gao, Tianlong Chen, <b>Kaixiong Zhou</b>.<br />
+<i>Annual Conference of the Nations of the Americas Chapter of the ACL (NAACL), 2025.</i><br /></li>
+
+<li> Protecting Privacy against Membership Inference Attack with LLM Fine-tuning through Flatness<br />
+Tiejin Chen, Longchao Da, Huixue Zhou, Pingzhi Li, <b>Kaixiong Zhou</b>, Tianlong Chen and Hua Wei.<br />
+<i>SIAM International Conference on Data Mining (SDM), 2025.</i><br /></li>
+
+<li>Integrating Social Determinants of Health into Knowledge Graphs: Evaluating Prediction Bias and Fairness in Healthcare<br />
+Tianqi Shang, Weiqing He, MS1, Tianlong Chen, Ying Ding, Huanmei Wu, <b>Kaixiong Zhou</b>, Li Shen.<br />
+<i>AMIA 2025 Informatics Summit.</i><br /></li>
+
+### Before 2024
+<li>Towards Instructing Disease-Drug Link Prediction with Social Determinants of Health<br />
+Yashaswi Galhotra, Ying Ding, Li Shen, Huanmei Wu, Tianlong Chen, <b>Kaixiong Zhou</b>.<br />
+<i>ACM International Conference on Bioinformatics, Computational Biology and Health Informatics (ACM-BCB), 2024.</i><br /></li>
+
 <li>Gradient Rewiring for Editable Graph Neural Network Training<br />
-Zhimeng Jiang, Zirui Liu, Xiaotian Han, Qizhang Feng, Hongye Jin, Qiaoyu Tan, <b>Kaixiong Zhou.</b>, Na Zou, Xia Hu.<br />
+Zhimeng Jiang, Zirui Liu, Xiaotian Han, Qizhang Feng, Hongye Jin, Qiaoyu Tan, <b>Kaixiong Zhou</b>, Na Zou, Xia Hu.<br />
 <i>Conference on Neural Information Processing Systems (NeurIPS), 2024.</i><br /></li>
 
 <li>Cross-Lingual Multi-Hop Knowledge Editing -- Benchmarks, Analysis and a Simple Contrastive Learning based Approach<br />
