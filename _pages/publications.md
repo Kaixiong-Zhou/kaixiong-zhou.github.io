@@ -59,7 +59,7 @@ Tiejin Chen, Longchao Da, Huixue Zhou, Pingzhi Li, <b>Kaixiong Zhou</b>, Tianlon
 <i>SIAM International Conference on Data Mining (SDM), 2025.</i><br /></li>
 
 <li>Integrating Social Determinants of Health into Knowledge Graphs: Evaluating Prediction Bias and Fairness in Healthcare<br />
-Tianqi Shang, Weiqing He, MS1, Tianlong Chen, Ying Ding, Huanmei Wu, <b>Kaixiong Zhou</b>, Li Shen.<br />
+Tianqi Shang, Weiqing He, Tianlong Chen, Ying Ding, Huanmei Wu, <b>Kaixiong Zhou</b>, Li Shen.<br />
 <i>AMIA 2025 Informatics Summit.</i><br /></li>
 
 <font size="5"><b>2024 and Before</b></font><br />
