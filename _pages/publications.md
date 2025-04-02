@@ -38,10 +38,6 @@ Jiamu Zhang, Shaochen Zhong, Andrew Ye, Zirui Liu, Sebastian Zhao, <b>Kaixiong Z
 Xiaotian Han, Tianlong Chen, <b>Kaixiong Zhou</b>, Zhimeng Jiang, Zhangyang Wang, Xia Hu.<br />
 <i>Conference on Parsimony and Learning (CPAL), 2025.</i><br /></li>
 
-<li>You Only Debias Once: Towards Flexible Accuracy-Fairness Trade-offs at Inference Time (Oral)<br />
-Xiaotian Han, Tianlong Chen, <b>Kaixiong Zhou</b>, Zhimeng Jiang, Zhangyang Wang, Xia Hu.<br />
-<i>Conference on Parsimony and Learning (CPAL), 2025.</i><br /></li>
-
 <li>DAMO: Decoding by Accumulating Activations Momentum for Mitigating Hallucinations in Vision-Language Models<br />
 Kaishen Wang, Hengrui Gu, Meijun Gao, <b>Kaixiong Zhou</b>.<br />
 <i>International Conference on Learning Representation (ICLR), 2024.</i><br /></li>
