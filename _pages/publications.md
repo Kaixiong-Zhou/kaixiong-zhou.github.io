@@ -26,6 +26,18 @@ Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen,
 <ul>
 
 <font size="5"><b>2025</b></font><br />
+<li>Aligning Large Language Models and Geometric Deep Models for Protein Representation<br />
+Dong Shu, Bingbing Duan, Kai Guo, <b>Kaixiong Zhou</b>, Jiliang Tang, Mengnan Du.<br />
+<i>Cell Patterns, 2025.</i><br /></li>
+
+<li>Flexible Group Count Enables Hassle-Free Structured Pruning<br />
+Jiamu Zhang, Shaochen Zhong, Andrew Ye, Zirui Liu, Sebastian Zhao, <b>Kaixiong Zhou</b>, Li Li, Soo-Hyun Choi, Rui Chen, Xia Hu, Shuai Xu, Vipin Chaudhary.<br />
+<i>Conference on Computer Vision and Pattern Recognition (CVPR), 2025.</i><br /></li>
+
+<li>You Only Debias Once: Towards Flexible Accuracy-Fairness Trade-offs at Inference Time  <font color="red">(Oral)</font><br />
+Xiaotian Han, Tianlong Chen, <b>Kaixiong Zhou</b>, Zhimeng Jiang, Zhangyang Wang, Xia Hu.<br />
+<i>Conference on Parsimony and Learning (CPAL), 2025.</i><br /></li>
+
 <li>You Only Debias Once: Towards Flexible Accuracy-Fairness Trade-offs at Inference Time (Oral)<br />
 Xiaotian Han, Tianlong Chen, <b>Kaixiong Zhou</b>, Zhimeng Jiang, Zhangyang Wang, Xia Hu.<br />
 <i>Conference on Parsimony and Learning (CPAL), 2025.</i><br /></li>
@@ -34,7 +46,7 @@ Xiaotian Han, Tianlong Chen, <b>Kaixiong Zhou</b>, Zhimeng Jiang, Zhangyang Wang
 Kaishen Wang, Hengrui Gu, Meijun Gao, <b>Kaixiong Zhou</b>.<br />
 <i>International Conference on Learning Representation (ICLR), 2024.</i><br /></li>
 
-<li>MQuAKE-Remastered: Multi-Hop Knowledge Editing Can Only Be Advanced with Reliable Evaluations (Spotlight)<br />
+<li>MQuAKE-Remastered: Multi-Hop Knowledge Editing Can Only Be Advanced with Reliable Evaluations <font color="red">(Spotlight)</font><br />
 Shaochen Zhong, Yifan Lu, Lize Shao, Bhargav Bhushanam, Xiaocong Du, Yixin Wan, Yucheng Shi, Daochen Zha, Yiwei Wang, Ninghao Liu, <b>Kaixiong Zhou</b>, Shuai Xu, Kai-Wei Chang, Louis Feng, Vipin Chaudhary, Xia Hu.<br />
 <i>International Conference on Learning Representation (ICLR), 2024.</i><br /></li>
 
