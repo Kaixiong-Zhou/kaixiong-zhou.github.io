@@ -40,11 +40,11 @@ Xiaotian Han, Tianlong Chen, <b>Kaixiong Zhou</b>, Zhimeng Jiang, Zhangyang Wang
 
 <li>DAMO: Decoding by Accumulating Activations Momentum for Mitigating Hallucinations in Vision-Language Models<br />
 Kaishen Wang, Hengrui Gu, Meijun Gao, <b>Kaixiong Zhou</b>.<br />
-<i>International Conference on Learning Representation (ICLR), 2024.</i><br /></li>
+<i>International Conference on Learning Representation (ICLR), 2025.</i><br /></li>
 
 <li>MQuAKE-Remastered: Multi-Hop Knowledge Editing Can Only Be Advanced with Reliable Evaluations <font color="red">(Spotlight)</font><br />
 Shaochen Zhong, Yifan Lu, Lize Shao, Bhargav Bhushanam, Xiaocong Du, Yixin Wan, Yucheng Shi, Daochen Zha, Yiwei Wang, Ninghao Liu, <b>Kaixiong Zhou</b>, Shuai Xu, Kai-Wei Chang, Louis Feng, Vipin Chaudhary, Xia Hu.<br />
-<i>International Conference on Learning Representation (ICLR), 2024.</i><br /></li>
+<i>International Conference on Learning Representation (ICLR), 2025.</i><br /></li>
 
 <li>Layer-Level Self-Exposure and Patch: Affirmative Token Mitigation for Jailbreak Attack Defense<br />
 Yang Ouyang, Hengrui Gu, Shuhang Lin, Wenyue Hua, Jie Peng, Bhavya Kailkhura, Meijun Gao, Tianlong Chen, <b>Kaixiong Zhou</b>.<br />
