@@ -26,6 +26,10 @@ Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen,
 <ul>
 
 <font size="5"><b>2025</b></font><br />
+<li>Retrieval Augmented Zero-Shot Enzyme Generation for Speci ed Substrate<br />
+Jiahe Du, <b>Kaixiong Zhou</b>, Xinyu Hong, Zhaozhuo Xu, Jinbo Xu, Xiao Huang.<br />
+<i>International Conference on Machine Learning (ICML), 2025.</i><br /></li>
+
 <li>Aligning Large Language Models and Geometric Deep Models for Protein Representation<br />
 Dong Shu, Bingbing Duan, Kai Guo, <b>Kaixiong Zhou</b>, Jiliang Tang, Mengnan Du.<br />
 <i>Cell Patterns, 2025.</i><br /></li>

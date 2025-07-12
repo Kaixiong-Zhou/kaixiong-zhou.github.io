@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <ul>
+<li> ORAU Ralph E. Powe Junior Faculty Enhancement Award, 2025. <br /></li>
 <li> Best Demo Paper Honorable Mention, CIKM 2023. <br /></li>
 <li> Student Travel Award, KDD 2022. <br /></li>
 <li> Excellent Graduates in Anhui Province, China, 2018. <br /></li>

@@ -22,6 +22,8 @@ Email: kzhou22 at ncsu.edu.
 
 News
 =====
+**Jun. 2025:** Thrilled to receive ORAU Ralph E. Powe Junior Faculty Enhancement Award, 2025. 
+
 **Aug. 2024:** Join NCSU ECE as an Assistant Professor, 2024.
 
 **Sep. 2023:** Join MIT IMES as a Postdoc, 2023. 
