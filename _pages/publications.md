@@ -30,9 +30,21 @@ Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen,
 Jiahe Du, <b>Kaixiong Zhou</b>, Xinyu Hong, Zhaozhuo Xu, Jinbo Xu, Xiao Huang.<br />
 <i>International Conference on Machine Learning (ICML), 2025.</i><br /></li>
 
-<li>Aligning Large Language Models and Geometric Deep Models for Protein Representation<br />
-Dong Shu, Bingbing Duan, Kai Guo, <b>Kaixiong Zhou</b>, Jiliang Tang, Mengnan Du.<br />
-<i>Cell Patterns, 2025.</i><br /></li>
+<li>The Efficiency vs. Accuracy Trade-off: Optimizing RAG-Enhanced LLM Recommender Systems Using Multi-Head Early Exit<br />
+Huixue Zhou, Hengrui Gu, Zaifu Zhan, Xi Liu, <b>Kaixiong Zhou</b>, Yongkang Xiao, Mingfu Liang, Srinivas Prasad Govindan, Piyush Chawla, Jiyan Yang, Xiangfei Meng, Huayu Li, Buyun Zhang, Liang Luo, Wen-Yen Chen, Yiping Han, Bo Long, Rui Zhang, Tianlong Chen.<br />
+<i>Association for Computational Linguistics (ACL), 2025.</i><br /></li>
+
+<li>Vision Language Model Helps Private Information De-Identification in Vision Data<br />
+Tiejin Chen, Pingzhi Li, <b>Kaixiong Zhou</b>, Tianlong Chen, Hua Wei<br />
+<i>Findings of the Association for Computational Linguistics (ACL), 2025.</i><br /></li>
+
+<li>Vision Language Model Helps Private Information De-Identification in Vision Data<br />
+Tiejin Chen, Pingzhi Li, <b>Kaixiong Zhou</b>, Tianlong Chen, Hua Wei<br />
+<i>Findings of the Association for Computational Linguistics (ACL), 2025.</i><br /></li>
+
+<li>Unveiling Privacy Risks in Multi-modal Large Language Models: Task-specific Vulnerabilities and Mitigation Challenges<br />
+Tiejin Chen, Pingzhi Li, <b>Kaixiong Zhou</b>, Tianlong Chen, Hua Wei<br />
+<i>Findings of the Association for Computational Linguistics (ACL), 2025.</i><br /></li>
 
 <li>Flexible Group Count Enables Hassle-Free Structured Pruning<br />
 Jiamu Zhang, Shaochen Zhong, Andrew Ye, Zirui Liu, Sebastian Zhao, <b>Kaixiong Zhou</b>, Li Li, Soo-Hyun Choi, Rui Chen, Xia Hu, Shuai Xu, Vipin Chaudhary.<br />
@@ -60,7 +72,7 @@ Tiejin Chen, Longchao Da, Huixue Zhou, Pingzhi Li, <b>Kaixiong Zhou</b>, Tianlon
 
 <li>Integrating Social Determinants of Health into Knowledge Graphs: Evaluating Prediction Bias and Fairness in Healthcare<br />
 Tianqi Shang, Weiqing He, Tianlong Chen, Ying Ding, Huanmei Wu, <b>Kaixiong Zhou</b>, Li Shen.<br />
-<i>AMIA 2025 Informatics Summit.</i><br /></li>
+<i>AMIA Summits on Translational Science Proceedings, 2025.</i><br /></li>
 
 <font size="5"><b>2024 and Before</b></font><br />
 <li>Towards Instructing Disease-Drug Link Prediction with Social Determinants of Health<br />
