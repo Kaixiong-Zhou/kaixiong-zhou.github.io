@@ -12,6 +12,9 @@ main:
   - title: "Award"
     url: /awards/
 
+    - title: "SEEK Lab"
+    url: /seek/
+
 
   # - title: "Publications"
   #   url: /publications/
