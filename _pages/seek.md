@@ -19,6 +19,7 @@ author_profile: true
 </ul>
 
 ## Master Students
+<ul>
 <li>Fan-sheng Chuang, Fall 2025 - <br /></li>
 <li>Pranav Bhagwat, Fall 2025 - <br /></li>
-<ul>
+</ul>
