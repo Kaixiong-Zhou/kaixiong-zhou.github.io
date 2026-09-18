@@ -16,10 +16,17 @@ author_profile: true
 <li>Xuchen Li, Fall 2025 - <br /></li>
 <li>Yujing Bian, Fall 2025 - <br /></li>
 <li>Xiangyu Wen, Fall 2026 - <br /></li>
+<li>Pinfeng Huang, Fall 2026 - <br /></li>
 </ul>
 
 ## Master Students
 <ul>
 <li>Fan-sheng Chuang, Fall 2025 - <br /></li>
 <li>Pranav Bhagwat, Fall 2025 - <br /></li>
+</ul>
+
+## Undergraduate Students
+<ul>
+<li>Tanay Kadam, Fall 2025 - <br /></li>
+<li>Abhinav Avasarala, Fall 2026 - <br /></li>
 </ul>

@@ -11,11 +11,18 @@ redirect_from:
 I am an Assistant Professor in the Department of Electrical and Computer Engineering at North Carolina State University. Prior to joining NCSU, I was a Postdoctoral Associate at Massachusetts Institute of Technology, working on drug discovery and synthetic biology with [Prof. James J. Collins](https://be.mit.edu/directory/james-j-collins). I received my Ph.D. degree in Computer Science from Rice University, 2023, under the supervision of [Prof. Xia (Ben) Hu](https://cs.rice.edu/~xh37/index.html). I received the Bachelor degree from Sun Yat-Sen University (SYSU) in 2015, and received the Master degree from University of Science and Technology of China (USTC) in 2018. 
 
 
-His research interests lie in developing efficient, trustworthy, and use-inspired machine learning algorithms in the fields of graph representation learning, language models, and AI for science & engineering. His research contributes to tackling challenges in various applications including synthetic biology, drug discovery, and network analysis.
+<!-- His research interests lie in developing efficient, trustworthy, and use-inspired machine learning algorithms in the fields of graph representation learning, language models, and AI for science & engineering. His research contributes to tackling challenges in various applications including synthetic biology, drug discovery, and network analysis. -->
 
-Email: kzhou22 at ncsu.edu.
+I am leading SEEK Lab at NCSU ECE Department. We focus on developing eﬃcient, trustworthy, and use-inspired machine learning algorithms in the fields of AI for science & engineering, geometric deep learning, multi-modal foundation models, and agents. My research contributes to tackling challenges in various applications including synthetic biology, drug discovery, healthcare informatics, and network
+analysis. Specifically, we are interested in the following topics:
+<li>Generative AI for Science: <i>de novo</i> designs of small molecules, proteins, and nucleic acid sequences.</li><br />
+<li>Explainable AI for Science: functional motif discovery.</li><br />
+<li>Scientific Agents: enabling alignment and reasoning of scientific knowledge in LLMs.</li><br />
+<li>Trustworthy Multi-modal Foundation Models: robustness, knowledge editing.</li>
 
-<p><i class="fas fa-envelope"></i> Prospective students: I am looking for self-motivated students. Please feel free to drop me an email kaixiong.zhou.001@gmail.com together with resume and transcripts if you are interested.
+NC State Email: kzhou22 at ncsu.edu.
+
+<p><i class="fas fa-envelope"></i> Prospective students/internship: I am actively looking for self-motivated students. Please feel free to drop me an email kaixiong.zhou.001@gmail.com together with resume and transcripts if you are interested.
 </p>
 
 <br />

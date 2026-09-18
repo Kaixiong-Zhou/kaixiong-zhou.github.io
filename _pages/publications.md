@@ -25,6 +25,32 @@ Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen,
 ## Conference/Journal Papers (* indicates equal contributions)
 <ul>
 
+<font size="5"><b>2026</b></font><br />
+<li>WRIT: Write-Read Intensive Trajectory Synthesis for Multi-Turn User-Facing Agents<br />
+Hengrui Gu, Xiaotian Han, Kaixiong Zhou, <b>Kaixiong Zhou.</b>.<br />
+<i>Empirical Methods in Natural Language Processing (EMNLP), 2026.</i><br /></li>
+
+<li>LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models<br />
+Xi Zhu, Haochen Xue, Ziwei Zhao, Wujiang Xu, Ching-Yuen Huang, Minghao Guo, Qifan Wang, <b>Kaixiong Zhou</b>, Imran Razzak, Yongfeng Zhang.</b>.<br />
+<i>Empirical Methods in Natural Language Processing (EMNLP), 2026.</i><br /></li>
+
+<li>GALS-Fold: Geometry-Aware Long-Short RNA Inverse Folding with Linear Scaling<br />
+Xiangyu Wen, Yujing Bian, Hengrui Gu, <b>Kaixiong Zhou</b>.<br />
+<i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.</i><br /></li>
+
+<li>ReLU: Refined Chunk Embeddings Learning for Ultra-long SNP Genomic Prediction in Crop Breeding<br />
+Huachi Zhou, Jiahe Du, Yujing Zhang, Luyao Zhuang, Chang Yang, Zijin Hong, Jiaqi Bai,
+Qinggang Zhang, <b>Kaixiong Zhou</b>, Xiao Huang.<br />
+<i>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026.</i><br /></li>
+
+<li>Catastrophic Forgetting in Kolmogorov-Arnold Networks<br />
+Mohammad Marufur Rahman, Guanchu Wang, <b>Kaixiong Zhou</b>, Minghan Chen, Fan Yang.<br />
+<i>AAAI Conference on Artificial Intelligence (AAAI), 2026.</i><br /></li>
+
+<li>Zion: A Comprehensive, Adaptive, and Lightweight Hardware Prefetcher<br />
+Vadim Biryukov, Xiaoyang Lu, Zirui Liu, <b>Kaixiong Zhou</b>, Xian-He Sun.<br />
+<i>Design, Automation, and Test in Europe (DATE), 2026.</i><br /></li>
+
 <font size="5"><b>2025</b></font><br />
 <li>Retrieval Augmented Zero-Shot Enzyme Generation for Specified Substrate<br />
 Jiahe Du, <b>Kaixiong Zhou</b>, Xinyu Hong, Zhaozhuo Xu, Jinbo Xu, Xiao Huang.<br />
