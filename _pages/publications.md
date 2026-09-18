@@ -27,7 +27,7 @@ Zirui Liu, Zhimeng Jiang, Shaochen Zhong, <b>Kaixiong Zhou</b>, Li Li, Rui Chen,
 
 <font size="5"><b>2026</b></font><br />
 <li>WRIT: Write-Read Intensive Trajectory Synthesis for Multi-Turn User-Facing Agents<br />
-Hengrui Gu, Xiaotian Han, Kaixiong Zhou, <b>Kaixiong Zhou.</b>.<br />
+Hengrui Gu, Xiaotian Han, Kaixiong Zhou, <b>Kaixiong Zhou.</b><br />
 <i>Empirical Methods in Natural Language Processing (EMNLP), 2026.</i><br /></li>
 
 <li>LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models<br />
