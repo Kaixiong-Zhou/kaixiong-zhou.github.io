@@ -5,7 +5,8 @@ permalink: /awards/
 author_profile: true
 ---
 
-<ul> NCSU Dean’s COE Applied AI Research Accelerator Award, 2026.  <br /></li>
+<ul> 
+<li> NCSU Dean’s COE Applied AI Research Accelerator Award, 2026.  <br /></li>
 <li> ORAU Ralph E. Powe Junior Faculty Enhancement Award, 2025. <br /></li>
 <li> Best Demo Paper Honorable Mention, CIKM 2023. <br /></li>
 <!-- <li> Student Travel Award, KDD 2022. <br /></li>
