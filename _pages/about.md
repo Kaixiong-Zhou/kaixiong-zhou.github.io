@@ -25,7 +25,7 @@ analysis. Specifically, we are interested in the following topics:
 
 NCSU Email: kzhou22 at ncsu.edu.
 
-<p><i class="fas fa-envelope"></i> Prospective graduate students/internships: I am actively looking for self-motivated students. Please feel free to drop me an email kaixiong.zhou.001@gmail.com together with resume and transcripts if you are interested.
+<p><i class="fas fa-envelope"></i> Prospective students (undergraduate/graduate) and interns: I am actively looking for self-motivated students. Please feel free to drop me an email kaixiong.zhou.001@gmail.com together with resume and transcripts if you are interested.
 </p>
 
 <br />
