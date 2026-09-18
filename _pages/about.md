@@ -15,10 +15,13 @@ I am an Assistant Professor in the Department of Electrical and Computer Enginee
 
 I am leading SEEK Lab at NCSU ECE Department. We focus on developing eﬃcient, trustworthy, and use-inspired machine learning algorithms in the fields of AI for science & engineering, geometric deep learning, multi-modal foundation models, and agents. My research contributes to tackling challenges in various applications including synthetic biology, drug discovery, healthcare informatics, and network
 analysis. Specifically, we are interested in the following topics:
-<li>Generative AI for Science: <i>de novo</i> designs of small molecules, proteins, and nucleic acid sequences.</li><br />
-<li>Explainable AI for Science: functional motif discovery.</li><br />
-<li>Scientific Agents: enabling alignment and reasoning of scientific knowledge in LLMs.</li><br />
-<li>Trustworthy Multi-modal Foundation Models: robustness, knowledge editing.</li>
+<li>Generative AI for Science: <i>de novo</i> designs of small molecules, proteins, and nucleic acid sequences.</li>
+
+<li>Explainable AI for Science: functional motif discovery.</li>
+
+<li>Scientific Agents: enabling alignment and reasoning of scientific knowledge in LLMs.</li>
+
+<li>Trustworthy Multi-modal Foundation Models: robustness, knowledge editing.</li><br />
 
 NC State Email: kzhou22 at ncsu.edu.
 
