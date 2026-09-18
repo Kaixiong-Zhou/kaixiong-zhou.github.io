@@ -23,9 +23,9 @@ analysis. Specifically, we are interested in the following topics:
 
 <li>Trustworthy Multi-modal Foundation Models: robustness, knowledge editing.</li><br />
 
-NC State Email: kzhou22 at ncsu.edu.
+NCSU Email: kzhou22 at ncsu.edu.
 
-<p><i class="fas fa-envelope"></i> Prospective students/internship: I am actively looking for self-motivated students. Please feel free to drop me an email kaixiong.zhou.001@gmail.com together with resume and transcripts if you are interested.
+<p><i class="fas fa-envelope"></i> Prospective graduate students/internships: I am actively looking for self-motivated students. Please feel free to drop me an email kaixiong.zhou.001@gmail.com together with resume and transcripts if you are interested.
 </p>
 
 <br />
